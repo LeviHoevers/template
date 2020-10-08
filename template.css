@@ -1,0 +1,32 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	font-family: 'roboto', sans-serif;
+	color: rgba( 255,255,255,0.8);
+	background-image: url(B1W5O2---Template-master/voorbeeld/header_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header{
+	height: 40px;
+	background-color: white;
+	text-align: right;
+}
+header ul{
+	list-style: none;
+	margin-right:40px;
+}
+header ul li{
+	display: inline-block;
+}
+header ul li a{
+	display: inline-block;
+	width: 40px;
+	line-height: 40px;
+	text-align: center;
+	background-color: lightgrey;
+}
